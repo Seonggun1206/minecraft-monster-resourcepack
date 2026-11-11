@@ -1,0 +1,6 @@
+name: MonsterCraft Goblin
+description: Original model and animation for the goblin scout
+author: MonsterCraft
+version: 1.0.0
+bundles: [main]
+enabled: true

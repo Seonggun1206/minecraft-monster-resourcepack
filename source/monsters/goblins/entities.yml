@@ -1,0 +1,17 @@
+goblin_scout:
+  type: VINDICATOR
+  model: monstercraft:goblin_scout
+  health: 16
+  damage: 3
+  speed: 1.12
+  scale: 0.78
+  height: 0.95
+  head-bone: head
+  tags: [monstercraft, goblin, goblin_scout]
+  animations:
+    idle: idle
+    walk: walk
+    run: run
+    attack: attack
+    hurt: hurt
+    death: death
